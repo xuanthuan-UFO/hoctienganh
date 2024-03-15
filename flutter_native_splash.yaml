@@ -1,0 +1,4 @@
+flutter_native_splash:
+  color: "#ffffff"
+  fullscreen: false
+  image: lib/app/res/image/logo_ufo.png
