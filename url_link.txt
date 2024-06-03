@@ -1,4 +1,0 @@
-{
-  "url_youtube": "https://www.youtube.com/watch?v=koaNCj_Ze-Q",
-  "url_banner": "https://raw.githubusercontent.com/xuanthuan-UFO/hoctienganh/main/new_banner.png"
-}
