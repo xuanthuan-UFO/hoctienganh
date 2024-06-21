@@ -30,7 +30,7 @@
         {
           "word": "Chimpanzee",
           "pronunciation": "tʃɪmpənˈzi",
-          "type": "",
+          "type": "n",
           "definition": "Con tinh tinh"
         },
         {
@@ -48,7 +48,7 @@
         {
           "word": "Dolphin",
           "pronunciation": "ˈdɒlfɪn",
-          "type": "",
+          "type": "n",
           "definition": "cá heo"
         },
         {
@@ -60,7 +60,7 @@
         {
           "word": "Eel",
           "pronunciation": "iːl",
-          "type": "",
+          "type": "n",
           "definition": "lươn"
         },
         {
@@ -78,13 +78,13 @@
         {
           "word": "Fox",
           "pronunciation": "fɑːks",
-          "type": "",
+          "type": "n",
           "definition": "con cáo"
         },
         {
           "word": "Giraffe",
           "pronunciation": "",
-          "type": "",
+          "type": "n",
           "definition": "con hươu cao cổ"
         },
         {
@@ -96,7 +96,7 @@
         {
           "word": "Hippopotamus",
           "pronunciation": "ˌhɪpəˈpɑːtəməs",
-          "type": "",
+          "type": "n",
           "definition": "con hà mã"
         },
         {
@@ -114,7 +114,7 @@
         {
           "word": "Jaguar",
           "pronunciation": "ˈdʒæɡjuər",
-          "type": "",
+          "type": "n",
           "definition": "con báo đốm"
         },
         {
@@ -144,7 +144,7 @@
         {
           "word": "Penguin",
           "pronunciation": "ˈpeŋɡwɪn",
-          "type": "",
+          "type": "n",
           "definition": "chim cánh cụt"
         },
         {
@@ -156,7 +156,7 @@
         {
           "word": "Porcupine",
           "pronunciation": "ˈpɔːrkjupaɪn",
-          "type": "",
+          "type": "n",
           "definition": "con nhím"
         },
         {
@@ -168,19 +168,19 @@
         {
           "word": "Raccoon",
           "pronunciation": "",
-          "type": "",
+          "type": "n",
           "definition": "con gấu mèo"
         },
         {
           "word": "Rhinoceros",
           "pronunciation": "raɪˈnɒsərəs",
-          "type": "",
+          "type": "n",
           "definition": "con tê giác"
         },
         {
           "word": "Shark",
           "pronunciation": "ʃɑːk",
-          "type": "",
+          "type": "n",
           "definition": "cá mập"
         },
         {
@@ -192,13 +192,13 @@
         {
           "word": "Squirrel",
           "pronunciation": "ˈskwɜːrəl",
-          "type": "",
+          "type": "n",
           "definition": "con sóc"
         },
         {
           "word": "Swordfish",
           "pronunciation": "ˈsɔːdfɪʃ",
-          "type": "",
+          "type": "n",
           "definition": "cá kiếm"
         },
         {
@@ -210,19 +210,19 @@
         {
           "word": "Turtle",
           "pronunciation": "ˈtɜːtl",
-          "type": "",
+          "type": "n",
           "definition": "rùa"
         },
         {
           "word": "Walrus",
           "pronunciation": "ˈwɔːlrəs",
-          "type": "",
+          "type": "n",
           "definition": "hải mã"
         },
         {
           "word": "Whale",
           "pronunciation": "weɪl",
-          "type": "",
+          "type": "n",
           "definition": "cá voi"
         }
       ]
@@ -231,33 +231,27 @@
       "topicName": "Cây cối và hoa (Plants)",
       "data": [
         {
-          "word": "Alder",
-          "pronunciation": "’ɔl:də",
-          "type": "",
-          "definition": "Cây tổng quán sủi"
-        },
-        {
           "word": "Apple tree",
           "pronunciation": "ˈæpl triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây táo"
         },
         {
           "word": "Ash",
           "pronunciation": "æ∫",
-          "type": "",
+          "type": "n",
           "definition": "Cây tần bì"
         },
         {
           "word": "Beech",
           "pronunciation": "bi:t∫",
-          "type": "",
+          "type": "n",
           "definition": "Cây sồi"
         },
         {
           "word": "Birch",
           "pronunciation": "bə:t∫",
-          "type": "",
+          "type": "n",
           "definition": "Cây gỗ bu lô"
         },
         {
@@ -269,14 +263,14 @@
         {
           "word": "Bluebell",
           "pronunciation": "’blu:bel",
-          "type": "",
+          "type": "n",
           "definition": "Hoa chuông xanh"
         },
         {
           "word": "Bracken",
           "pronunciation": "’brækən",
-          "type": "",
-          "definition": "Cây dương xỉ diều hâu"
+          "type": "n",
+          "definition": "Cây dương xỉ"
         },
         {
           "word": "Branch",
@@ -293,152 +287,152 @@
         {
           "word": "The bun of flowers",
           "pronunciation": "bʌn ɒv ˈflaʊəz",
-          "type": "",
+          "type": "n",
           "definition": "Bó hoa"
         },
         {
           "word": "Bush",
           "pronunciation": "bu∫",
-          "type": "",
+          "type": "n",
           "definition": "Bụi rậm"
         },
         {
           "word": "Buttercup",
           "pronunciation": "’bʌtəkʌp",
-          "type": "",
+          "type": "n",
           "definition": "Hoa mao lương vàng"
         },
         {
           "word": "Cactus",
           "pronunciation": "kæktəs",
-          "type": "",
+          "type": "n",
           "definition": "Cây xương rồng"
         },
         {
           "word": "Carnation",
           "pronunciation": "kɑ:’nei∫n",
-          "type": "",
+          "type": "n",
           "definition": "Hoa cẩm chướng"
         },
         {
           "word": "Cedar",
           "pronunciation": "’si:də",
-          "type": "",
+          "type": "n",
           "definition": "Cây tuyết tùng"
         },
         {
           "word": "Cherry tree",
           "pronunciation": "ˈʧɛri triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây anh đào"
         },
         {
           "word": "Chestnut tree",
           "pronunciation": "ˈʧɛsnʌt triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây dẻ"
         },
         {
           "word": "Chrysanthemum",
           "pronunciation": "Kri’sænθəməm",
-          "type": "",
+          "type": "n",
           "definition": "Hoa cúc"
         },
         {
           "word": "Coconut tree",
           "pronunciation": "ˈkəʊkənʌt triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây dừa"
         },
         {
           "word": "Corn",
           "pronunciation": "kɔ:n",
-          "type": "",
+          "type": "n",
           "definition": "Cây ngô"
         },
         {
           "word": "Crocus",
           "pronunciation": "’kroukəs",
-          "type": "",
+          "type": "n",
           "definition": "Hoa nghệ tây"
         },
         {
           "word": "Daffodil",
           "pronunciation": "’dæfədil",
-          "type": "",
+          "type": "n",
           "definition": "Hoa thủy tiên vàng"
         },
         {
           "word": "Dahlia",
           "pronunciation": "’deiljə",
-          "type": "",
+          "type": "n",
           "definition": "Hoa thược dược"
         },
         {
           "word": "Daisy",
           "pronunciation": "’deizi",
-          "type": "",
+          "type": "n",
           "definition": "Hoa cúc"
         },
         {
           "word": "Dandelion",
           "pronunciation": "’dændilaiən",
-          "type": "",
+          "type": "n",
           "definition": "Hoa bồ công anh"
         },
         {
           "word": "Elm",
           "pronunciation": "elm",
-          "type": "",
+          "type": "n",
           "definition": "Cây đu"
         },
         {
           "word": "Fern",
           "pronunciation": "fə:n",
-          "type": "",
+          "type": "n",
           "definition": "Cây dương xỉ"
         },
         {
           "word": "Fig tree",
           "pronunciation": "fɪg triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây sung"
         },
         {
           "word": "Fir",
           "pronunciation": "fə:",
-          "type": "",
+          "type": "n",
           "definition": "Cây Linh sam"
         },
         {
           "word": "Flower",
           "pronunciation": "’flauə",
-          "type": "",
+          "type": "n",
           "definition": "Hoa"
         },
         {
           "word": "Forget-me-not",
           "pronunciation": "fəˈgɛtmɪnɒt",
-          "type": "",
+          "type": "n",
           "definition": "Hoa lưu ly"
         },
         {
           "word": "Foxglove",
           "pronunciation": "’fɔksglʌv",
-          "type": "",
+          "type": "n",
           "definition": "Hoa mao địa hoàng"
         },
         {
           "word": "Geranium",
           "pronunciation": "dʒi’reinjəm",
-          "type": "",
+          "type": "n",
           "definition": "Hoa phong lữ"
         },
         {
           "word": "Grass",
           "pronunciation": "grɑ:s",
-          "type": "",
-          "definition": "trồng cỏ"
+          "type": "n",
+          "definition": "Cỏ"
         },
         {
           "word": "Grass",
@@ -455,43 +449,43 @@
         {
           "word": "Hawthorn",
           "pronunciation": "’hɔ:θɔ:n",
-          "type": "",
+          "type": "n",
           "definition": "Cây táo gai"
         },
         {
           "word": "Hazel",
           "pronunciation": "’heizl",
-          "type": "",
+          "type": "n",
           "definition": "Cây phỉ"
         },
         {
           "word": "Heather",
           "pronunciation": "’heðə",
-          "type": "",
+          "type": "n",
           "definition": "Cây thạch nam"
         },
         {
           "word": "Herb",
           "pronunciation": "hə:b",
-          "type": "",
+          "type": "n",
           "definition": "Thảo mộc"
         },
         {
           "word": "Holly",
           "pronunciation": "’hɔli",
-          "type": "",
+          "type": "n",
           "definition": "Cây nhựa ruồi"
         },
         {
           "word": "Horse chestnut tree",
           "pronunciation": "hɔːs ˈʧɛsnʌt triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây dẻ ngựa"
         },
         {
           "word": "Ivy",
           "pronunciation": "’aivi",
-          "type": "",
+          "type": "n",
           "definition": "Cây thường xuân"
         },
         {
@@ -503,103 +497,103 @@
         {
           "word": "Lily",
           "pronunciation": "’lili",
-          "type": "",
+          "type": "n",
           "definition": "Hoa loa kèn"
         },
         {
           "word": "Lime",
           "pronunciation": "laim",
-          "type": "",
+          "type": "n",
           "definition": "Cây đoan"
         },
         {
           "word": "Maple",
           "pronunciation": "’meipl",
-          "type": "",
+          "type": "n",
           "definition": "Cây thích"
         },
         {
           "word": "Moss",
           "pronunciation": "mɔs",
-          "type": "",
+          "type": "n",
           "definition": "Rêu"
         },
         {
           "word": "Mushroom",
           "pronunciation": "’mʌ∫rum",
-          "type": "",
+          "type": "n",
           "definition": "Nấm"
         },
         {
           "word": "Nettle",
           "pronunciation": "’netl",
-          "type": "",
+          "type": "n",
           "definition": "Cây tầm ma"
         },
         {
           "word": "Oak",
           "pronunciation": "əʊk",
-          "type": "",
+          "type": "n",
           "definition": "Cây sồi"
         },
         {
           "word": "Olive tree",
           "pronunciation": "ˈɒlɪv triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây ô liu"
         },
         {
           "word": "Orchid",
           "pronunciation": "’ɔ: kid",
-          "type": "",
+          "type": "n",
           "definition": "Hoa Lan"
         },
         {
           "word": "Pansy",
           "pronunciation": "’pænzi",
-          "type": "",
+          "type": "n",
           "definition": "Hoa păng xê"
         },
         {
           "word": "Pear tree",
           "pronunciation": "peə triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây lê"
         },
         {
           "word": "Pine",
           "pronunciation": "pain",
-          "type": "",
+          "type": "n",
           "definition": "Cây thông"
         },
         {
           "word": "Plane",
           "pronunciation": "plein",
-          "type": "",
+          "type": "n",
           "definition": "Cây tiêu huyền"
         },
         {
           "word": "Plum tree",
           "pronunciation": "plʌm triː",
-          "type": "",
+          "type": "n",
           "definition": "Cây mận"
         },
         {
           "word": "Poplar",
           "pronunciation": "’pɔplə(r)",
-          "type": "",
+          "type": "n",
           "definition": "Cây bạch dương"
         },
         {
           "word": "Poppy",
           "pronunciation": "’pɔpi",
-          "type": "",
+          "type": "n",
           "definition": "Hoa anh túc"
         },
         {
           "word": "Primrose",
           "pronunciation": "’primrouz",
-          "type": "",
+          "type": "n",
           "definition": "Hoa anh thảo"
         },
         {
@@ -611,7 +605,7 @@
         {
           "word": "Rose",
           "pronunciation": "rouz",
-          "type": "",
+          "type": "n",
           "definition": "Hoa hồng"
         },
         {
@@ -623,19 +617,19 @@
         {
           "word": "Shrub",
           "pronunciation": "∫rʌb",
-          "type": "",
+          "type": "n",
           "definition": "Cây bụi"
         },
         {
           "word": "Snowdrop",
           "pronunciation": "’snoudrɔp",
-          "type": "",
+          "type": "n",
           "definition": "Hoa giọt tuyết"
         },
         {
           "word": "Sycamore",
           "pronunciation": "’sikəmɔ:",
-          "type": "",
+          "type": "n",
           "definition": "Cây sung dâu"
         },
         {
@@ -659,31 +653,31 @@
         {
           "word": "Tulip",
           "pronunciation": "’tju:lip",
-          "type": "",
+          "type": "n",
           "definition": "Hoa tulip"
         },
         {
           "word": "Waterlily",
           "pronunciation": "’wɔ:təlis]",
-          "type": "",
+          "type": "n",
           "definition": "Hoa súng"
         },
         {
           "word": "Weeping willow",
           "pronunciation": "ˈwiːpɪŋ ˈwɪləʊ",
-          "type": "",
+          "type": "n",
           "definition": "Cây liễu rủ"
         },
         {
           "word": "Wheat",
           "pronunciation": "wi:t",
-          "type": "",
+          "type": "n",
           "definition": "Lúa mì"
         },
         {
           "word": "Willow",
           "pronunciation": "’wilou",
-          "type": "",
+          "type": "n",
           "definition": "Cây liễu"
         },
         {
@@ -695,7 +689,7 @@
         {
           "word": "Yew",
           "pronunciation": "ju:",
-          "type": "",
+          "type": "n",
           "definition": "Cây thủy tùng"
         }
       ]
@@ -706,19 +700,19 @@
         {
           "word": "Ambarella",
           "pronunciation": "’æmbə’rælə",
-          "type": "",
+          "type": "n",
           "definition": "Quả cóc"
         },
         {
           "word": "Apple",
           "pronunciation": "ˈæpl",
-          "type": "",
+          "type": "n",
           "definition": "Táo"
         },
         {
           "word": "Apricot",
           "pronunciation": "ˈeɪprɪkɒt",
-          "type": "",
+          "type": "n",
           "definition": "Mơ"
         },
         {
@@ -736,7 +730,7 @@
         {
           "word": "Bell fruit",
           "pronunciation": "bel fruːt",
-          "type": "",
+          "type": "n",
           "definition": "Mận miền nam"
         },
         {
@@ -766,37 +760,37 @@
         {
           "word": "Dragon fruit",
           "pronunciation": "ˈdræɡən fruːt",
-          "type": "",
+          "type": "n",
           "definition": "Thanh long"
         },
         {
           "word": "Durian",
           "pronunciation": "ˈdʊəriən",
-          "type": "",
+          "type": "n",
           "definition": "Sầu riêng"
         },
         {
           "word": "Granadilla",
           "pronunciation": "ɡranəˈdɪlə",
-          "type": "",
+          "type": "n",
           "definition": "Chanh dây"
         },
         {
           "word": "Grape",
           "pronunciation": "ɡreɪp",
-          "type": "",
+          "type": "n",
           "definition": "Nho"
         },
         {
           "word": "Guava",
           "pronunciation": "ˈɡwɑːvə",
-          "type": "",
+          "type": "n",
           "definition": "Ổi"
         },
         {
           "word": "Jackfruit",
           "pronunciation": "ˈdʒækfruːt",
-          "type": "",
+          "type": "n",
           "definition": "Mít"
         },
         {
@@ -814,7 +808,7 @@
         {
           "word": "Kumquat",
           "pronunciation": "ˈkʌmkwɒt",
-          "type": "",
+          "type": "n",
           "definition": "Tắc"
         },
         {
@@ -832,31 +826,31 @@
         {
           "word": "Longan",
           "pronunciation": "ˈlɒŋɡ(ə)n",
-          "type": "",
+          "type": "n",
           "definition": "Quả nhãn"
         },
         {
           "word": "Lychee",
           "pronunciation": "ˌlaɪˈtʃiː",
-          "type": "",
+          "type": "n",
           "definition": "Quả vải"
         },
         {
           "word": "Mandarin",
           "pronunciation": "ˈmændərɪn",
-          "type": "",
+          "type": "n",
           "definition": "Quýt"
         },
         {
           "word": "Mango",
           "pronunciation": "ˈmæŋɡəʊ",
-          "type": "",
+          "type": "n",
           "definition": "Xoài"
         },
         {
           "word": "Mangosteen",
           "pronunciation": "ˈmæŋɡəstiːn",
-          "type": "",
+          "type": "n",
           "definition": "Măng cụt"
         },
         {
@@ -868,19 +862,19 @@
         {
           "word": "Papaya",
           "pronunciation": "pəˈpaɪə",
-          "type": "",
+          "type": "n",
           "definition": "Đu đủ"
         },
         {
           "word": "Peach",
           "pronunciation": "piːtʃ",
-          "type": "",
+          "type": "n",
           "definition": "Đào"
         },
         {
           "word": "Pear",
           "pronunciation": "peə(r)",
-          "type": "",
+          "type": "n",
           "definition": "Quả lê"
         },
         {
@@ -892,43 +886,43 @@
         {
           "word": "Peel",
           "pronunciation": "(noun)",
-          "type": "",
+          "type": "n",
           "definition": "Vỏ ngoài của trái cây"
         },
         {
           "word": "Persimmon",
           "pronunciation": "pəˈsɪmən",
-          "type": "",
+          "type": "n",
           "definition": "Quả hồng"
         },
         {
           "word": "Pineapple",
           "pronunciation": "ˈpaɪnæpl",
-          "type": "",
+          "type": "n",
           "definition": "Quả thơm, quả dứa, khóm"
         },
         {
           "word": "Plum",
           "pronunciation": "plʌm",
-          "type": "",
+          "type": "n",
           "definition": "Mận Bắc"
         },
         {
           "word": "Pomegranate",
           "pronunciation": "ˈpɒmɪɡrænɪt",
-          "type": "",
+          "type": "n",
           "definition": "Lựu"
         },
         {
           "word": "Pomelo",
           "pronunciation": "ˈpɒmələʊ",
-          "type": "",
+          "type": "n",
           "definition": "Quả bưởi"
         },
         {
           "word": "Rambutan",
           "pronunciation": "ræmˈbuːtn",
-          "type": "",
+          "type": "n",
           "definition": "Chôm chôm"
         },
         {
@@ -940,49 +934,49 @@
         {
           "word": "Sapodilla",
           "pronunciation": "ˌsæpəˈdɪlə",
-          "type": "",
+          "type": "n",
           "definition": "Sa bô chê, hồng xiêm"
         },
         {
           "word": "Soursop",
           "pronunciation": "ˈsaʊəsɒp",
-          "type": "",
+          "type": "n",
           "definition": "Mãng cầu xiêm"
         },
         {
           "word": "Star Apple",
           "pronunciation": "stɑː(r) æpl",
-          "type": "",
+          "type": "n",
           "definition": "Quả vú sữa"
         },
         {
           "word": "Star fruit",
           "pronunciation": "ˈstɑː fruːt",
-          "type": "",
+          "type": "n",
           "definition": "Quả khế"
         },
         {
           "word": "Strawberry",
           "pronunciation": "ˈstrɔːbəri",
-          "type": "",
+          "type": "n",
           "definition": "Dâu tây"
         },
         {
           "word": "Sugar cane",
           "pronunciation": "",
-          "type": "",
+          "type": "n",
           "definition": "Mía"
         },
         {
           "word": "Tamarind",
           "pronunciation": "ˈtæmərɪnd",
-          "type": "",
+          "type": "n",
           "definition": "Me"
         },
         {
           "word": "Watermelon",
           "pronunciation": "ˈwɔːtəmelən",
-          "type": "",
+          "type": "n",
           "definition": "Dưa hấu"
         }
       ]
@@ -993,25 +987,25 @@
         {
           "word": "Asparagus",
           "pronunciation": "əˈspærəɡəs",
-          "type": "",
+          "type": "n",
           "definition": "măng tây"
         },
         {
           "word": "Basil",
           "pronunciation": "ˈbæzl",
-          "type": "",
+          "type": "n",
           "definition": "cây húng quế"
         },
         {
           "word": "Bay leaves",
           "pronunciation": "",
-          "type": "",
+          "type": "n",
           "definition": "lá nguyệt quế"
         },
         {
           "word": "Bean sprouts",
           "pronunciation": "ˈbiːn spraʊts",
-          "type": "",
+          "type": "n",
           "definition": "giá"
         },
         {
@@ -1023,7 +1017,7 @@
         {
           "word": "Beet",
           "pronunciation": "",
-          "type": "",
+          "type": "n",
           "definition": "biːt củ dền"
         },
         {
@@ -1035,37 +1029,37 @@
         {
           "word": "Bitter Herb",
           "pronunciation": "ˌbɪtə hɜːb",
-          "type": "",
+          "type": "n",
           "definition": "Rau Đắng"
         },
         {
           "word": "Avocado",
           "pronunciation": "ævəˈkɑːdəʊ",
-          "type": "",
+          "type": "n",
           "definition": "Bơ"
         },
         {
           "word": "Broccoli",
           "pronunciation": "ˈbrɒkəli",
-          "type": "",
+          "type": "n",
           "definition": "bông cải xanh"
         },
         {
           "word": "Pomelo",
           "pronunciation": "ˈpɒmɪləʊ",
-          "type": "",
+          "type": "n",
           "definition": "Bưởi"
         },
         {
           "word": "Cabbage",
           "pronunciation": "ˈkæbɪdʒ",
-          "type": "",
+          "type": "n",
           "definition": "bắp cải"
         },
         {
           "word": "Orange",
           "pronunciation": "cam",
-          "type": "",
+          "type": "n",
           "definition": ""
         },
         {
@@ -1077,7 +1071,7 @@
         {
           "word": "Cauliflower",
           "pronunciation": "ˈkɒliflaʊə(r)",
-          "type": "",
+          "type": "n",
           "definition": "súp lơ"
         },
         {
@@ -1107,38 +1101,38 @@
         {
           "word": "Rambutan",
           "pronunciation": "ræmˈbuːtn",
-          "type": "",
+          "type": "n",
           "definition": "Chôm chôm"
         },
         {
           "word": "Banana",
-          "pronunciation": "chuối",
-          "type": "",
-          "definition": ""
+          "pronunciation": "bəˈnænə",
+          "type": "n",
+          "definition": "Quả Chuối"
         },
         {
           "word": "Cilantro",
           "pronunciation": "sɪˈlæntroʊ",
-          "type": "",
+          "type": "n",
           "definition": "ngò rí"
         },
         {
           "word": "Cilantro",
           "pronunciation": "sɪˈlæntrəʊ",
-          "type": "",
+          "type": "n",
           "definition": "Ngò Gai"
         },
         {
           "word": "Cilantro",
           "pronunciation": "sɪˈlæntrəʊ",
-          "type": "",
+          "type": "n",
           "definition": "Ngò Mùi"
         },
         {
           "word": "Coconut",
-          "pronunciation": "dừa",
-          "type": "",
-          "definition": ""
+          "pronunciation": "ˈkəʊkənʌt",
+          "type": "n",
+          "definition": "Trái Dừa"
         },
         {
           "word": "Corn",
@@ -1154,62 +1148,62 @@
         },
         {
           "word": "Peach",
-          "pronunciation": "Đào",
-          "type": "",
-          "definition": ""
+          "pronunciation": "piːtʃ",
+          "type": "n",
+          "definition": "Đào"
         },
         {
           "word": "red bean",
-          "pronunciation": "đậu đỏ",
-          "type": "",
-          "definition": ""
+          "pronunciation": "red biːn",
+          "type": "n",
+          "definition": "Đậu đỏ"
         },
         {
           "word": "soybean",
-          "pronunciation": "Đậu nành",
-          "type": "",
-          "definition": ""
+          "pronunciation": "ˈsɔɪbiːn",
+          "type": "n",
+          "definition": "Đậu nành"
         },
         {
           "word": "peanut",
-          "pronunciation": "Đậu phộng (lạc)",
-          "type": "",
-          "definition": ""
+          "pronunciation": "ˈpiːnʌt",
+          "type": "n",
+          "definition": "Đậu phộng (lạc)"
         },
         {
           "word": "strawberry",
-          "pronunciation": "Dâu tây",
-          "type": "",
-          "definition": ""
+          "pronunciation": "ˈstrɔːberi",
+          "type": "n",
+          "definition": "Dâu tây"
         },
         {
           "word": "mung bean",
-          "pronunciation": "Đậu xanh",
-          "type": "",
-          "definition": ""
+          "pronunciation": "mʌŋ biːn",
+          "type": "n",
+          "definition": "Đậu xanh"
         },
         {
           "word": "Dill",
           "pronunciation": "dil",
-          "type": "",
+          "type": "n",
           "definition": "cây thì là"
         },
         {
           "word": "Pineapple",
           "pronunciation": "ˈpaɪnæpl",
-          "type": "",
+          "type": "n",
           "definition": "Dứa (thơm)"
         },
         {
           "word": "watermelon",
           "pronunciation": "ˈwɔːtəmelən",
-          "type": "",
+          "type": "n",
           "definition": "Dưa hấu"
         },
         {
           "word": "Granadilla",
           "pronunciation": "ɡranəˈdɪlə",
-          "type": "",
+          "type": "n",
           "definition": "Chanh dây"
         },
         {
@@ -1221,7 +1215,7 @@
         {
           "word": "Fish Mint",
           "pronunciation": "ˈfɪʃ mɪnt",
-          "type": "",
+          "type": "n",
           "definition": "Diếp Cá"
         },
         {
@@ -1238,45 +1232,39 @@
         },
         {
           "word": "Green onion",
-          "pronunciation": "hành lá",
-          "type": "",
-          "definition": ""
+          "pronunciation": "ɡriːn ˈʌnjən",
+          "type": "n",
+          "definition": "Hành lá"
         },
         {
           "word": "Herb",
           "pronunciation": "hɜːb",
-          "type": "",
+          "type": "n",
           "definition": "cây cỏ nói chung"
         },
         {
           "word": "Lemon grass",
-          "pronunciation": "sả",
-          "type": "",
-          "definition": ""
+          "pronunciation": "Lemon ɡræs",
+          "type": "n",
+          "definition": "Sả"
         },
         {
           "word": "Lettuce",
           "pronunciation": "ˈletɪs",
-          "type": "",
+          "type": "n",
           "definition": "rau xà lách"
         },
         {
           "word": "Marrow",
           "pronunciation": "ˈmærəʊ",
-          "type": "",
+          "type": "n",
           "definition": "Bí xanh"
         },
         {
-          "word": "Me",
-          "pronunciation": "tamarind",
-          "type": "",
-          "definition": ""
-        },
-        {
           "word": "Mint leaves",
-          "pronunciation": "lá bạc hà",
-          "type": "",
-          "definition": ""
+          "pronunciation": "mɪnt liːvz",
+          "type": "n",
+          "definition": "Lá bạc hà"
         },
         {
           "word": "Mushroom",
@@ -1287,7 +1275,7 @@
         {
           "word": "Mustard Leaves",
           "pronunciation": "ˈmʌstəd liːvz",
-          "type": "",
+          "type": "n",
           "definition": "Cải Xanh"
         },
         {
@@ -1298,15 +1286,15 @@
         },
         {
           "word": "Papaya",
-          "pronunciation": "đu đủ",
-          "type": "",
-          "definition": ""
+          "pronunciation": "pəˈpaɪə",
+          "type": "n",
+          "definition": "đu đủ"
         },
         {
           "word": "Passion fruit",
-          "pronunciation": "chanh dây",
-          "type": "",
-          "definition": ""
+          "pronunciation": "ˈpæʃn fruːt",
+          "type": "n",
+          "definition": "chanh dây"
         },
         {
           "word": "Pea",
@@ -1317,25 +1305,25 @@
         {
           "word": "Pennywort",
           "pronunciation": "ˈpeniwɜːt",
-          "type": "",
+          "type": "n",
           "definition": "Rau Má"
         },
         {
           "word": "Pepper Elder",
           "pronunciation": "ˈpepə ˈeldə(r)",
-          "type": "",
+          "type": "n",
           "definition": "Rau càng Cua"
         },
         {
           "word": "Pepper",
           "pronunciation": "ˈpepə(r)",
-          "type": "",
+          "type": "n",
           "definition": "ớt chuông"
         },
         {
           "word": "Peppermint",
           "pronunciation": "ˈpepəmɪnt",
-          "type": "",
+          "type": "n",
           "definition": "Húng Cây"
         },
         {
@@ -1353,49 +1341,49 @@
         {
           "word": "Radish",
           "pronunciation": "ˈrædɪʃ",
-          "type": "",
+          "type": "n",
           "definition": "củ cải"
         },
         {
           "word": "Rice Paddy",
           "pronunciation": "ˈraɪs ˌpædi",
-          "type": "",
+          "type": "n",
           "definition": "Ngò ôm"
         },
         {
           "word": "Rosemary",
           "pronunciation": "'rouzməri",
-          "type": "",
+          "type": "n",
           "definition": "cây hương thảo"
         },
         {
-          "word": "Sầu riêng",
-          "pronunciation": "durian",
-          "type": "",
-          "definition": ""
+          "word": "Durian",
+          "pronunciation": "ˈdʊriən",
+          "type": "n",
+          "definition": "Sầu riêng"
         },
         {
           "word": "Sesame seeds",
           "pronunciation": "hạt vừng",
-          "type": "",
+          "type": "n",
           "definition": ""
         },
         {
           "word": "Spearmint",
           "pronunciation": "ˈspɪəmɪnt",
-          "type": "",
+          "type": "n",
           "definition": "Húng Lủi"
         },
         {
           "word": "Spinach",
           "pronunciation": "ˈspɪnɪtʃ",
-          "type": "",
+          "type": "n",
           "definition": "cải bó xôi"
         },
         {
           "word": "Thai Basil",
           "pronunciation": "taɪ ˈbæzəl",
-          "type": "",
+          "type": "n",
           "definition": "Húng Quế"
         },
         {
@@ -1407,44 +1395,44 @@
         {
           "word": "Turmeric",
           "pronunciation": "ˈtɜːrmərɪk",
-          "type": "",
+          "type": "n",
           "definition": "nghệ"
         },
         {
           "word": "Turnip",
           "pronunciation": "ˈtɜːnɪp",
-          "type": "",
+          "type": "n",
           "definition": "củ cải"
         },
         {
           "word": "Vietnamese Balm",
           "pronunciation": "ˌvjetnəˈmiːz bɑːm",
-          "type": "",
+          "type": "n",
           "definition": "Kinh Giới"
         },
         {
           "word": "Vietnamese Coriander",
           "pronunciation": "ˌvjetnəˈmiːz ˌkɒriˈændər",
-          "type": "",
+          "type": "n",
           "definition": "Rau Răm"
         },
         {
           "word": "Water Spinach",
           "pronunciation": "ˈwɔːtə(r) ˈspɪnɪtʃ",
-          "type": "",
+          "type": "n",
           "definition": "Rau Muống"
         },
         {
           "word": "Watercress",
           "pronunciation": "ˈwɔːtəkres",
-          "type": "",
+          "type": "n",
           "definition": "Xà Lách Son"
         },
         {
           "word": "Yam",
           "pronunciation": "jæm",
-          "type": "",
-          "definition": "khoai mỡ"
+          "type": "n",
+          "definition": "Khoai mỡ"
         }
       ]
     },
