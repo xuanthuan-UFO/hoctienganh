@@ -1,5 +1,5 @@
 {
   "url_youtube": "https://www.youtube.com/@solobo33",
   "url_banner": "https://raw.githubusercontent.com/xuanthuan-UFO/hoctienganh/main/new_banner.png",
-  "showAds":"1"
+  "showAds":"0"
 }
